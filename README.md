@@ -1,4 +1,4 @@
-# Data Scientist
+# Student
 
 #### Technical Skills: Python, C++, SQL, AWS, Snowflake, PySpark, Airflow, PowerBI, SAP S/4HANA, SAP Analytics Cloud
 
