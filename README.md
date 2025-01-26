@@ -22,6 +22,7 @@ Guide
 - Guided students around the Convention Centre, showcasing various industry skills and technologies.
 - Collaborated closely with teachers to ensure all students were accounted for throughout the event.
 - Maintained a strict schedule, guiding students to designated areas on time to avoid overcrowding and to ensure that the event was smooth.
+![World Skills ASEAN](/assests/img/WORLD ASEAN.jpg)
 
 ### Ren Ci Old Folks Home Online Magic Show (2022)
 Group Leader
