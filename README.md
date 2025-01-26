@@ -69,6 +69,6 @@ Organizer
 ### Scalable and Secure Cloud Architecture Deployment on AWS
 - Designed and deployed a two-tier cloud architecture using AWS in the N. Virginia region, ensuring high availability with resources spread across multiple Availability Zones.
 - Configured Auto Scaling Groups for EC2 instances to dynamically handle traffic spikes and reduce costs by scaling resources based on demand.
-- Implemented a NoSQL database in private subnets for secure and redundant storage of user data (Username, Password, Email Address).
+- Implemented a NoSQL database in private subnets for secure storage of user data (Username, Password, Email Address).
 - Created and managed two S3 buckets: one for public access to share materials and another for private, internal-only access with restricted permissions.
 - Applied security best practices by configuring security groups to control traffic and using scalable, cost-effective AWS services like DynamoDB and S3 storage classes.
