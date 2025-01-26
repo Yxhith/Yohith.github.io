@@ -67,7 +67,7 @@ Organizer
 - Conducted univariate, bivariate, and multivariate analyses to uncover patterns and actionable insights.
 
 ### Scalable and Secure Cloud Architecture Deployment on AWS
-- Designed and deployed a two-tier cloud architecture using AWS in the N. Virginia region, ensuring high availability with resources spread across multiple Availability Zones.
+- Designed and deployed a two-tier cloud architecture using Amazon Web Services in the N. Virginia region, ensuring high availability with resources spread across multiple Availability Zones.
 - Configured Auto Scaling Groups for EC2 instances to dynamically handle traffic spikes and reduce costs by scaling resources based on demand.
 - Implemented a NoSQL database in private subnets for secure storage of user data (Username, Password, Email Address).
 - Created and managed two S3 buckets: one for public access to share materials and another for private, internal-only access with restricted permissions.
