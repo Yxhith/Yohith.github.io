@@ -10,31 +10,31 @@
 
 ## Experience
 ### Sevice Learning At Radin Mas Community Club (2024)
-** IT Support **
-** Ngee Ann Polytechnic **
+IT Support
+Ngee Ann Polytechnic
 
 - Collaborated with team members to set up and manage technology, including speakers, laptops, and PowerPoint presentations, for the event.
 - Ensured equipment such as projectors and microphones, were functioning.
 - Successfully troubleshot and resolved projector issues under time constraints, ensuring the event proceeded without disruption.
   
 ### World  Skills ASEAN (2023)
-** Guide **
-** Ngee Ann Polytechnic **
+Guide
+Ngee Ann Polytechnic
 
 - Guided students around the Convention Centre, showcasing various industry skills and technologies.
 - Collaborated closely with teachers to ensure all students were accounted for throughout the event.
 - Maintained a strict schedule, guiding students to designated areas on time to avoid overcrowding and to ensure that the event was smooth.
 
 ### Ren Ci Old Folks Home Online Magic Show (2022)
-** Group Leader **
-** Chua Chu Kang Secondary School **
+Group Leader
+Chua Chu Kang Secondary School
 - Monitored the group’s progress on the project and provided weekly updates to teachers.
 - Collaborated with class representatives and teachers to ensure timely submission of the project video.
 - Took over video editing responsibilities when the assigned editor was feeling unwell, ensuring the project was completed on schedule.
 
 ### Deepavali Celebration (2019)
-** Organizer **
-** Chua Chu Kang Secondary School **
+Organizer
+Chua Chu Kang Secondary School
 - Collaborated with teachers to effectively communicate event details to classmates, ensuring everyone was well-informed.
 - Attended meetings and practice sessions on short notice, demonstrating adaptability and commitment.
 - Arrived early on the day of the event to set up decorations and assemble the stage, ensuring a smooth and timely start.
