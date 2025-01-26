@@ -15,7 +15,9 @@ IT Support
 - Collaborated with team members to set up and manage technology, including speakers, laptops, and PowerPoint presentations, for the event.
 - Ensured equipment such as projectors and microphones, were functioning.
 - Successfully troubleshot and resolved projector issues under time constraints, ensuring the event proceeded without disruption.
-  
+
+![Service Learning](/assests/img/Service Learning.jpg)
+
 ### World  Skills ASEAN (2023)
 Guide
 
